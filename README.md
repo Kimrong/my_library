@@ -1,5 +1,7 @@
-#**`conbase.py` library**
+**`conbase.py` library**
+======
 <br>
+
 ---
 <br>
 
@@ -39,14 +41,14 @@ Convert a decimal number into a number with the other base excluding decimal num
 Convert a non-decimal number into a decimal number. <br>
 ###**PARAMETERS:**
 * __num__ - Non-Decimal number you want to convert. Write an integer. <br>
-* __base__ - The base of the 'num'. <br>
+* __base__ - The base of the 'num'. Write an integer. <br>
 <br>
 
 3. `convertBase(num, before_base, after_base)` <br>
 Convert a number into the other number with the other base. <br>
 ###**PARAMETERS:**
 * __num__ - A number you want to convert. Write an integer. <br>
-* __before_base__ - The present base. <br>
+* __before_base__ - The present base. Write an integer. <br>
 * __after_base__ - The base you want to convert. Write an integer. <br>
 <br>
 
